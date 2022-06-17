@@ -21,5 +21,5 @@ def index():
       else:
             print('CRUD Operation not permitted')
 
-if __name__ == '__main__':
-      app.run(debug=True)
+# if __name__ == '__main__':
+      # app.run(debug=True)
